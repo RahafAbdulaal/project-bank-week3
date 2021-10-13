@@ -98,7 +98,7 @@ b1.createAccount(bank: b1)
 b1.viweAccounts()
 
 
-var b2 = Bank(FullName: "gege", Email: "r@r", PhoneNumber: 056666666, UserName: "gege", passwords: "@1fgsy7", bills: 150.0, Balance: 9000.50)
+var b2 = Bank(FullName: "gehan", Email: "r@r", PhoneNumber: 056666666, UserName: "gege", passwords: "@1fgsy7", bills: 150.0, Balance: 9000.50)
 b2.createAccount(bank: b2)
 b2.viweAccounts()
 
